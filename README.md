@@ -19,9 +19,9 @@
 
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Nhập môn Công nghệ phần mềm
-* **Mã môn học:** SE104
-* **Mã lớp:** SE104.O27
+* **Tên môn học:** Vi xử lý - Vi điều khiển
+* **Mã môn học:** CE103
+* **Mã lớp:** CE103.O24
 * **Năm học:** HK2 (2023 - 2024)
-* **Giảng viên**: ThS.Đặng Việt Dũng
+* **Giảng viên**: ThS.Trần Hoàng Lộc
 
